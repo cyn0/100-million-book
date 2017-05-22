@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41126005971",
+    "project_id": "firebase-million-books"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41126005971:android:b28b8f3054d3115c",
+        "android_client_info": {
+          "package_name": "in.co.books.surpriseme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41126005971-sav20mr43bpn46d8jdn3eb92aiau81ok.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "41126005971-k5u6pkd49en0i6amlj562tmitu9ukv2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.co.books.surpriseme",
+            "certificate_hash": "39be240c609d117cbf4888c4e2ed7a5d70487457"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIuMHFutXMBQ7cDGYYmLKkyZDP_9In5DY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
